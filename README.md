@@ -1,4 +1,4 @@
-<h2 align="left">Oi, eu sou a Camily 👋<br>Sou estudante de ADS (1º semestre) e estou começando meus estudos em HTML.<br>Ainda no início da jornada, mas animada para aprender, praticar e compartilhar meus projetos aqui no GitHub! 🚀</h2>
+<h2 align="left">Oi, eu sou a Camily 👋<br>Sou estudante de ADS (2º semestre) e estou começando meus estudos em HTML.<br>Ainda no início da jornada, mas animada para aprender, praticar e compartilhar meus projetos aqui no GitHub! 🚀</h2>
 
 ###
 
